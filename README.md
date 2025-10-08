@@ -97,6 +97,8 @@ Default credentials:
 
 ### 5. Run the Pipeline
 - Add a Postgres Connection ID in the Airflow UI :
+  - connection ID : `postgres`
+  - connection type : `postgres`
   - host : `postgres`
   - user : {DB username}
   - password : {DB password}
