@@ -490,3 +490,15 @@
 {"timestamp":"2025-10-08T19:29:28.765640","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-10-08T19:30:00.146791","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-10-08T19:30:31.674052","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:31:03.131936","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:31:34.212722","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:32:05.588120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:32:37.090242","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:33:08.762166","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:33:40.461773","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:34:11.652226","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:34:43.220419","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:35:14.937891","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:35:46.209792","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:36:17.575697","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T19:36:48.993372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}

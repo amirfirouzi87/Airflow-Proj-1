@@ -67,11 +67,11 @@ cd Airflow-Proj1-YT-Data-Pipeline
 ### 2. Configure YouTube API Key
 Create a `.env` file in the project root:
 ```
-API_KEY=
-CHANNEL_HANDLE=
+API_KEY={Youtube API key}
+CHANNEL_HANDLE={Youtube Channel Name}
 AIRFLOW_UID="50000"
-POSTGRES_CONN_USERNAME=
-POSTGRES_CONN_PASSWORD=
+POSTGRES_CONN_USERNAME={DB username}
+POSTGRES_CONN_PASSWORD={DB password}
 ```
 
 ### 3. Start Airflow with Docker Compose
@@ -96,6 +96,13 @@ Default credentials:
 - Password: `airflow`
 
 ### 5. Run the Pipeline
+- Add a Postgres Connection ID in the Airflow UI :
+  - host : `postgres`
+  - user : {DB username}
+  - password : {DB password}
+  - port : `5432`
+
+### 6. Run the Pipeline
 - Navigate to the DAGs page in the Airflow UI
 - Enable the YouTube data pipeline DAG
 - Trigger the DAG manually or wait for the scheduled run
