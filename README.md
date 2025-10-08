@@ -100,6 +100,16 @@ Default credentials:
 - Enable the YouTube data pipeline DAG
 - Trigger the DAG manually or wait for the scheduled run
 
+
+## Expected Result
+
+![alt text](image-2.png)
+
+
+![alt text](image-1.png)
+
+
+
 ## Project Structure
 
 ```
