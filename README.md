@@ -101,15 +101,6 @@ Default credentials:
 - Trigger the DAG manually or wait for the scheduled run
 
 
-## Expected Result
-
-![alt text](image-2.png)
-
-
-![alt text](image-1.png)
-
-
-
 ## Project Structure
 
 ```
@@ -137,6 +128,15 @@ Airflow-Proj1-YT-Data-Pipeline/
 2. **Transform**: Pandas reads JSON, applies transformations, exports to `csv` file
 3. **Load**: Script creates table in PostgreSQL and loads CSV data
 4. **Orchestrate**: Airflow manages task dependencies
+
+
+## Expected Result
+
+![alt text](image-2.png)
+
+
+![alt text](image-1.png)
+
 
 
 ## Lessons Learned
