@@ -1,0 +1,6 @@
+{"timestamp":"2025-10-08T14:18:19.890836","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-10-08T14:18:19.892483","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/yt-etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-10-08T14:18:20.818211","level":"info","event":"Running copy expert: COPY YT_Videos FROM STDIN WITH CSV HEADER, filename: ./data/YT_data_2025-10-08.csv","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-10-08T14:18:20.825888","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-10-08T14:18:20.896459","level":"info","event":"Connection Retrieved 'postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-10-08T14:18:20.960074","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
